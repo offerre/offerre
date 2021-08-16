@@ -53,7 +53,7 @@
 <br />
 <br />
 
-![TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=offerre&theme=tokyonight&show_icons=true)
+![TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=offerre&theme=tokyonight&show_icons=true&include_all_commits=true)
 
 [![TJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=offerre&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
