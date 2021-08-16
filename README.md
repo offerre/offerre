@@ -8,7 +8,7 @@
 ### Connect with me
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/aofferry/)
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/facebook.ico" />](https://www.facebook.com/Bucky.thanawat/)
-<img src="https://camo.githubusercontent.com/490b66ecadcd1f5a39e910c416634fe50e910361f21d28f2773e6ef061798f41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d46616365626f6f6b2d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d46616365626f6f6b266c6f676f436f6c6f723d313139354635" alt="Facebook" data-canonical-src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&amp;logo=Facebook&amp;logoColor=1195F5" style="max-width:100%;">
+
 <br />
 
 ### 
