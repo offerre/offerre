@@ -48,7 +48,7 @@
 
 <br />
 
-![TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=offerre&theme=nightowl&show_icons=true)
+![TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=offerre&theme=tokyonight&show_icons=true)
 
 <!---
 offerre/offerre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
