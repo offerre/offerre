@@ -55,7 +55,7 @@
 
 ![TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=offerre&theme=tokyonight&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=offerre)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 offerre/offerre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
