@@ -5,6 +5,9 @@
 - Email: offerre@hotmail.com
 - Phone No: +66 (0)85-834-7479
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### More about me
 <a href="https://www.linkedin.com/in/aofferry/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -41,10 +44,6 @@
 
 <br />
 <br />
-
-![TJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=offerre&theme=tokyonight&show_icons=true)
-
-[![TJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=offerre&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 offerre/offerre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
