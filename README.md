@@ -1,9 +1,10 @@
+
+---
 - 👋 Hi, I’m Thanawat Juijamrad, You can call me TJ for short.
 - 👀 I’m interested in android application development.
 - 🌱 I’m currently learning kotlin language and about clean achitecture.
 - 💞️ I’m looking to collaborate on some good team and improve my develop skill.
 - 📨 offerre@hotmail.com
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -26,6 +27,8 @@ CSS           4 hrs 18 mins   ░░░░░░░░░░░░░░░░�
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <br />
+
+---
 
 ### Languages and Tools
 <a href="">
