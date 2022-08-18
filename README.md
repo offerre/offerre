@@ -2,7 +2,7 @@
 - 👀 I’m interested in android application development.
 - 🌱 I’m currently learning kotlin language and about clean achitecture.
 - 💞️ I’m looking to collaborate on some good team and improve my develop skill.
-- 📨 Email: offerre@hotmail.com
+- 📨 offerre@hotmail.com
 
 <!--START_SECTION:waka-->
 
