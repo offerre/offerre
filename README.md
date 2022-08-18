@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning kotlin language and about clean achitecture.
 - 💞️ I’m looking to collaborate on some good team and improve my develop skill.
 - Email: offerre@hotmail.com
-- Phone No: +66 (0)85-834-7479
 
 <!--START_SECTION:waka-->
 
