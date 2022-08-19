@@ -9,16 +9,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2021 - To: 16 August 2022
+From: 15 August 2021 - To: 17 August 2022
 
-Total Time: 493 hrs 32 mins
+Total Time: 497 hrs 8 mins
 
-Dart          494 hrs 46 mins ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░   87.70 %
-JSON          32 hrs 7 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-XML           12 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-HTML          9 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
-Kotlin        5 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-CSS           4 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Dart          501 hrs 49 mins ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░   87.83 %
+JSON          32 hrs 17 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+XML           12 hrs 8 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+HTML          9 hrs 22 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Kotlin        5 hrs 10 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+CSS           4 hrs 18 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
