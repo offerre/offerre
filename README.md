@@ -9,12 +9,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 August 2021 - To: 17 November 2022
+From: 15 August 2021 - To: 18 November 2022
 
-Total Time: 645 hrs 3 mins
+Total Time: 645 hrs 45 mins
 
-Dart             570 hrs 9 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░   88.39 %
-JSON             36 hrs 36 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Dart             570 hrs 47 mins ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░   88.39 %
+JSON             36 hrs 37 mins  ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 Kotlin           9 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 XML              9 hrs 24 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 HTML             7 hrs 56 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
