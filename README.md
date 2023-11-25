@@ -9,15 +9,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2021 - To: 23 November 2023
+From: 15 August 2021 - To: 24 November 2023
 
-Total Time: 1,092 hrs 13 mins
+Total Time: 1,097 hrs 55 mins
 
-Dart             943 hrs 28 mins ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░   86.38 %
-JSON             89 hrs 18 mins  ▒▒░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Dart             949 hrs 9 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░   86.45 %
+JSON             89 hrs 18 mins  ▒▒░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 XML              10 hrs 17 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 YAML             10 hrs 16 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-Kotlin           9 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Kotlin           9 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
 ```
 
 <!--END_SECTION:waka-->
