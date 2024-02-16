@@ -5,7 +5,6 @@
 - 📲👀 I’m interested in mobile application development.
 - 🛠 Skill: Kotlin Flutter and Clean achitecture mindset.
 - 🤩 Always passionate in coding
-- 📨 offerre@hotmail.com
 <!--START_SECTION:waka-->
 
 ```txt
