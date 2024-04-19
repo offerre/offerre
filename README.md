@@ -8,14 +8,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2021 - To: 17 April 2024
+From: 15 August 2021 - To: 18 April 2024
 
-Total Time: 1,230 hrs 15 mins
+Total Time: 1,234 hrs 28 mins
 
-Dart             1,075 hrs 6 mins▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░   87.39 %
-JSON             91 hrs 2 mins   ▒▒░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Dart             1,079 hrs 8 mins▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░   87.42 %
+JSON             91 hrs 7 mins   ▒▒░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
 YAML             12 hrs 32 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-XML              10 hrs 18 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+XML              10 hrs 18 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 Kotlin           9 hrs 41 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
