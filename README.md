@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2021 - To: 28 August 2024
+From: 15 August 2021 - To: 29 August 2024
 
 Total Time: 1,338 hrs 29 mins
 
