@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Thanawat Juijamrad, You can call me TJ for short.
 - 📲👀 I’m interested in mobile application development.
-- 🛠 Skill: Kotlin Flutter and Clean achitecture mindset.
+- 🛠 Skill: Mobile development with Kotlin, Flutter and Clean achitecture mindset.
 - 🤩 Always passionate in coding
 <!--START_SECTION:waka-->
 
