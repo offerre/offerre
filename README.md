@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 August 2021 - To: 24 December 2025
+From: 15 August 2021 - To: 25 December 2025
 
-Total Time: 1,379 hrs 23 mins
+Total Time: 1,379 hrs 36 mins
 
-Dart              1,141 hrs 42 mins▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░   82.77 %
+Dart              1,141 hrs 56 mins▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░   82.77 %
 JSON              93 hrs 1 min    ▒▒░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
 Go                65 hrs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 YAML              14 hrs 27 mins  ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
